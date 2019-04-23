@@ -1,7 +1,8 @@
 # MEASURING OBSERVABLE INFLUENCE AND IMPACT OF SCIENTIFIC RESEARCH BEYOND ACADEMIA
 
 > TEAM: ABRACA-DATA 
-HONGHUI WANG honghuiw@sfu.ca, CHHAVI VERMA chhaviv@sfu.ca, SHRAY KHANNA skhanna@sfu.ca
+
+> HONGHUI WANG honghuiw@sfu.ca, CHHAVI VERMA chhaviv@sfu.ca, SHRAY KHANNA skhanna@sfu.ca
 
 ## EDA
 
