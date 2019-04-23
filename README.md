@@ -2,7 +2,9 @@
 
 > TEAM: ABRACA-DATA (HONGHUI WANG, CHHAVI VERMA, SHRAY KHANNA)
 
-## EDA
+>  SHRAY KHANNA skhanna@sfu.ca, HONGHUI WANG honghuiw@sfu.ca, CHHAVI VERMA chhaviv@sfu.ca
+
+# EDA
 
 Firstly, we conducted EDA on `Genome BC publication export Feb 2019.xlsx`
 which is offered by Gnome BC listing the academic papers they funded.
